@@ -6,7 +6,7 @@ import bz2
 import os
 from xml.etree.ElementTree import iterparse
 
-lang = 'sco'
+lang = 'lv'
 dump_of_wiki_address = "http://dumps.wikimedia.org/%swiki/latest/%swiki-latest-pages-articles-multistream.xml.bz2" % (lang, lang)
 
 
